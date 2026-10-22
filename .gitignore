@@ -1,0 +1,11 @@
+# Secretos
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Salidas de la demo
+sandbox/
+demo_run.log
